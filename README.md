@@ -10,9 +10,9 @@ A budding Data Scientist and Machine Learning enthusiast, passionate about trans
   <h2>About me</h2>
 </div>
 
-- 🔭 I’m currently learning: **Deep Learning**, the **Transformer Architecture**, and its applications in NLP.
-- 🌱 My primary goal is to master the end-to-end development of ML models that solve real-world problems.
-- 🎮 Outside of coding, i'm a huge Dota 2 fan. It makes my brain rot, which is fine.
+- 🥭 I’m currently learning: **Deep Learning**, the **Transformer Architecture**, and its applications in NLP.
+- 🥭 My primary goal is to master the end-to-end development of ML models that solve real-world problems.
+- 🥭 Outside of coding, i'm a huge Dota 2 fan. It makes my brain rot, which is fine.
 
   ---
   
