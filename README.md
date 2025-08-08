@@ -67,7 +67,7 @@ This is a collection of projects I've developed during my learning journey. Each
 | Project Name | Brief Description | Key Technologies |
 | :--- | :--- | :--- |
 | <a href="https://github.com/DostawcaSeksu/pre_dota">**Dota 2 Win Predictor**</a> | An end-to-end ML project to predict the winner of a Dota 2 match based on in-game stats. Covers the entire Data Science pipeline, from feature engineering to model comparison. | `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn` |
-| <a href="https://github.com/DostawcaSeksu/word2vec">**Word2Vec**</a> | An exploration of word embeddings. Trained a Word2Vec model on a text corpus to find semantic similarities between words and solve vector analogies. | `Gensim`, `NLTK`, `Python` |
+| <a href="https://github.com/DostawcaSeksu/word2vec">**Word2Vec**</a> | An exploration of word embeddings. Trained a Word2Vec model on a text corpus to find semantic similarities between words and solve vector analogies. | `Gensim`, `NLTK`, `Pandas`, `Python` |
 | <a href="<link_to_your_future_project>">**RNN for Sentiment Analysis** *[Work In Progress]*</a> | Building a Recurrent Neural Network (RNN/LSTM) with PyTorch to classify text sentiment (e.g., positive/negative movie reviews). | `PyTorch`, `NLP` |
 
 ---
