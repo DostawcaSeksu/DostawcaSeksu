@@ -27,9 +27,6 @@ A budding Data Scientist, Machine Learning enthusiast, and aspiring QA Automatio
   <a href="https://www.linkedin.com/in/parenyuk-vyacheslav-58140334b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/dostawca_seksu" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
 </p>
 
 ---
