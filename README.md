@@ -21,7 +21,7 @@ A budding Data Scientist, Machine Learning enthusiast, and aspiring QA Automatio
 </div>
 
 <p align="center">
-  <a href="https://t.me/ViacheslavPareniuk2006" target="_blank">
+  <a href="https://t.me/io_phoenix" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/parenyuk-vyacheslav-58140334b/" target="_blank">
