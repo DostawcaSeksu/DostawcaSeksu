@@ -81,5 +81,5 @@ This is a collection of projects I've developed during my learning journey. Each
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViacheslavPareniuk&layout=compact&langs_count=7&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff8f32"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostawcaSeksu&layout=compact&langs_count=7&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff8f32"/>
 </p>
